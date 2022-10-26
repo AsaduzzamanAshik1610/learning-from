@@ -2,27 +2,32 @@
     {
       "id": "01",
       "name": "programing C",
-      "img": "https://c8.alamy.com/comp/2DAF0XX/c-inscription-against-laptop-and-code-background-learn-c-programming-language-computer-courses-training-2DAF0XX.jpg"
+      "img": "https://image.shutterstock.com/image-illustration/c-abstract-concept-blue-text-600w-487518850.jpg" 
     },
     {
       "id": "02",
-      "name": "programing C++"
+      "name": "programing C++",
+      "img": "https://c8.alamy.com/comp/2DAF0XX/c-inscription-against-laptop-and-code-background-learn-c-programming-language-computer-courses-training-2DAF0XX.jpg"
     },
     {
       "id": "03",
-      "name": "Java"
+      "name": "Java",
+      "img" :"https://5.imimg.com/data5/QQ/CT/AO/GLADMIN-25397883/selection-064-500x500.png"
     },
     {
       "id": "04",
-      "name": "React"
+      "name": "React",
+      "img" : "https://www.filepicker.io/api/file/4C6yPDywSUeWYLyg1h9G"
     },
     {
       "id": "05",
-      "name": "phython"
+      "name": "phython",
+      "img" :"https://www.codingbytes.com/wp-content/uploads/2020/03/python-programming-course.jpg"
     },
     {
       "id": "06",
-      "name": "JavaScript"
+      "name": "JavaScript",
+      "img" : "https://i0.wp.com/onlinecoursesgalore.com/wp-content/uploads/2018/01/best-javascript-programming-courses-online.jpg?ssl=1"
     }
    
   ]
